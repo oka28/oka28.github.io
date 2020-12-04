@@ -34,6 +34,9 @@ th, td{
   margin: 0;
   border-bottom:1px solid ;
 }
+td:last-child{
+  border-bottom: 0 ;
+}
 .hol{
   writing-mode: horizontal-tb;
 }
