@@ -15,6 +15,7 @@
   font-size: 2.3vh;
   line-height: 180%;
   position: relative;
+  margin-top: 12%;
   padding: 0;
 }
 .plivacy ol{
@@ -37,8 +38,8 @@ ol li::before{
 }
 .copy{
   position: absolute;
-  margin-top: 42%;
-  left: 4%;
+  margin-top: 48%;
+  left: 5%;
 }
 .copy b{
   font-size: 2.6vh;

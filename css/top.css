@@ -33,7 +33,7 @@
 .news article{
   white-space: normal;
   position: relative;
-  margin-right: 18%;
+  margin-right: 4%;
   margin-left: 24%;
   padding-top: 12%;
   padding-bottom: 12%;
@@ -45,27 +45,25 @@
 .news article b{
   font-size: 3vh;
   position: relative;
-  right: 6%;
   padding-top: 12%;
 }
 .news article p{
   font-size: 2.4vh;
   position: relative;
-  padding-left: 16%;
-  right: 4%;
+  padding-left: 12%;
   padding: 4%;
 }
 .news article time{
   font-size: 2.4vh;
   position: relative;
-  right: 4%;
   padding-top: 48%;
 }
 .closed{
-  font-size: 2.8vh;
+  font-size: 2.6vh;
   text-decoration: underline;
   position: relative;
-  padding-top: 18%;
+  left: 4%;
+  padding-top: 16%;
 }
 .location {
   margin-right: 36%;
@@ -80,7 +78,7 @@
   line-height: 120%;
   position: relative;  
   padding: 8%;
-  margin-right: 12%;
+  margin-right: 4%;
 }
 .location > div img{
   height: 100%;
@@ -106,8 +104,8 @@
 }
 .copy{
   position: relative;
-  margin-top: 56%;
-  left: 20%;
+  margin-top: 58%;
+  left: 6%;
 }
 .copy b{
   font-size: 2.6vh;

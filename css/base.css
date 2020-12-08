@@ -5,6 +5,7 @@ html{
   height: 100vh;
 }
 body { 
+  writing-mode: vertical-rl;
   background-image: url(../b2.jpg);
   font-family: "游明朝";
   position: relative;
@@ -50,6 +51,9 @@ main {
   padding-bottom: 4%;
   border-bottom: 4vh #080005;
 }
+header{
+  writing-mode: horizontal-tb;
+}
 nav {
   background-color: transparent;
   z-index: 10;
@@ -90,6 +94,8 @@ nav li {
 footer{
   background-image: url(../b2.jpg);
   position: absolute;
+  top:0;
+  left: 0;
   width: 5vh;
   height: 100%;
 }
