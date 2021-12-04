@@ -15,15 +15,16 @@
   padding: 0;
 }
 table{
-  font-size: 2.4vh;
   height: 100%;
   width: 720vh
 }
 .table1{
+  font-size: 2.2vh;
   margin-right: 18%;
   margin-left: 36%;
 }
 .table2{
+  font-size: 2.0vh;
   margin-right: 0;
   margin-left: 36%;
 }
