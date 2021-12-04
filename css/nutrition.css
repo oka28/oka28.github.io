@@ -50,6 +50,7 @@ th, td{
 .copy{
   position: absolute;
   margin-top: 52%;
+  left: 0.5%;
 }
 .copy b{
   font-size: 2.6vh;
