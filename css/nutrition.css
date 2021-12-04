@@ -15,11 +15,17 @@
   padding: 0;
 }
 table{
-  margin-right: 18%;
-  margin-left: 36%;
   font-size: 2.4vh;
   height: 100%;
   width: 720vh
+}
+.table1{
+  margin-right: 18%;
+  margin-left: 36%;
+}
+.table2{
+  margin-right: 8%;
+  margin-left: 24%;
 }
 caption{
   margin-left: 12%;
